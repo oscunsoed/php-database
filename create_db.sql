@@ -1,0 +1,1 @@
+CREATE DATABASE soed_n_seek;
